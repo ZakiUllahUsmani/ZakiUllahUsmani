@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakiullahusmani&label=Profile%20views&color=0e75b6&style=flat" alt="zakiullahusmani" /> </p>
 
-- 🔭 I’m currently working on **NYC Taxi Trip Time Prediction**
+- 🔭 I’m currently working on **NYC Taxi Trip Time Prediction.**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Deep Learning.**
 
-- 💬 Ask me about **Statistics, Python, SQL, Tableau, MS Excel, Supervised and Unsupervised Machine Learning**
+- 💬 Ask me about **Statistics, Python, Machine Learning, SQL, Tableau and MS Excel.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/md-zaki-ullah-usmani-74091a211**
 
