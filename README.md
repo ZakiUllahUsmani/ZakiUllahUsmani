@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakiullahusmani&label=Profile%20views&color=0e75b6&style=flat" alt="zakiullahusmani" /> </p>
 
-- 🔭 I’m currently working on **NYC Taxi Trip Time Prediction.**
+- 🔭 I’m currently working on **Deep Learning Project.**
 
-- 🌱 I’m currently learning **Deep Learning.**
+- 🌱 I’m currently learning **Generative AI.**
 
 - 💬 Ask me about **Statistics, Python, Machine Learning, SQL, Tableau and MS Excel.**
 
