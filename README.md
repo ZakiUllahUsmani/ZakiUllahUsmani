@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Generative AI.**
 
-- 💬 Ask me about **Statistics, Python, Machine Learning, SQL, Tableau and MS Excel.**
+- 💬 Ask me about **Statistics, Python, SQL, Tableau, Power BI, Google Looker Studio, MS Excel, Machine Learning, and Deep Learning.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/md-zaki-ullah-usmani-74091a211**
 
