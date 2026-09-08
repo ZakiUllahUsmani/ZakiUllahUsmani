@@ -1,26 +1,59 @@
-<h1 align="center">Hi 👋, I'm Zaki</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Md Zaki Ullah Usmani</h1>
+  <p><strong>Senior Data Analyst | Business Intelligence & Data Solutions</strong></p>
 
-<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Data Analytics GIF" width="500" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zakiullahusmani&label=Profile%20views&color=0e75b6&style=flat" alt="zakiullahusmani" /> </p>
+---
 
-- 🔭 I’m currently working on **Deep Learning Project.**
+### 💼 About Me
 
-- 🌱 I’m currently learning **Generative AI.**
+- 🔭 **Current Focus:** Leading enterprise client engagements, designing scalable BI dashboards & models, and building automated end-to-end data solutions, automating reporting processess.
+- 🛠️ **Core Strengths:** ETL, Schema Design, Data modeling, Power Query, DAX optimization, SSRS & Power Automate workflow orchestration, and executive reporting.
+- 🌱 **Expanding Into:** Generative AI workflows, Azure AI Foundry, Microsoft Copilot Studio, and automated analytical agents.
+- 💬 **Ask Me About:** Python, SQL, Excel, Power BI (RLS, DAX, Tabular Editor), SSRS, Fabric, Power Platform,  Azure Data Factory, PostgreSQL, and Machine Learning.
+- 📬 **Reach Out:** [zakiullah.zu17@gmail.com](mailto:zakiullah.zu17@gmail.com) | [Connect on LinkedIn](https://www.linkedin.com/in/md-zaki-ullah-usmani-74091a211)
 
-- 💬 Ask me about **Statistics, Python, SQL, Tableau, Power BI, Google Looker Studio, MS Excel, Machine Learning, and Deep Learning.**
+---
 
-- 📫 How to reach me **https://www.linkedin.com/in/md-zaki-ullah-usmani-74091a211**
+### 📈 Career Impact
 
-<h3 align="left">Connect with me:</h3>
+| Impact Metric | Outcome Delivered |
+| :--- | :--- |
+| **+25%** | Increase in client satisfaction scores within 6 months |
+| **-40%** | Reduction in end-to-end reporting turnaround time |
+| **-35%** | Manual reporting effort eliminated via SSRS & pipeline automation |
+| **20+** | Enterprise interactive Power BI dashboards shipped |
+
+---
+
+### 📜 Verified Credentials
+
+- 🏅 **Microsoft Certified:** [Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/api/credentials/share/en-in/MDZAKIULLAHUSMANI-9002/2E8B6D3710BB5DD5?sharingId=8A4E8C179E8965B5)
+- 🏅 **Microsoft Applied Skills:** [Microsoft Fabric](https://learn.microsoft.com/api/achievements/share/en-in/MDZAKIULLAHUSMANI-9002/U7V5AQM3?sharingId=8A4E8C179E8965B5) & [Copilot in Power BI](https://learn.microsoft.com/api/achievements/share/en-in/MDZAKIULLAHUSMANI-9002/H2QG24A8?sharingId=8A4E8C179E8965B5)
+- 🏅 **AlmaBetter:** [Machine Learning](https://certificates.almabetter.com/en/verify/93735695037539)
+- 🏅 **HackerRank:** [SQL (Advanced)](https://www.hackerrank.com/certificates/651ffcd56f20) & [Python](https://www.hackerrank.com/certificates/493d1937565f)
+- 🏅 **Coursera / DeepLearning.AI:** [Deep Learning Specialization](https://coursera.org/share/1fec40e45cb4aa41e9c7a894f2428c0e)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | Python, SQL, DAX, M Code, T-SQL |
+| **BI & Visualization** | Power BI (RLS, Data Modeling), SSRS, Excel, Tableau, Looker Studio |
+| **Data Engineering & Cloud** | Azure Data Factory, Microsoft Fabric, PostgreSQL, MySQL, SSMS |
+| **AI & Workflow Automation** | Power Automate, Microsoft Copilot Studio, Azure AI Foundry, Scikit-Learn |
+
 <p align="left">
-<a href="https://linkedin.com/in/md zaki ullah usmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md zaki ullah usmani" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakiullahusmani&show_icons=true&locale=en&layout=compact" alt="zakiullahusmani" /></p>
+---
